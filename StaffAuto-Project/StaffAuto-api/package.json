@@ -19,7 +19,7 @@
     "fs": "0.0.1-security",
     "http-errors": "~1.6.2",
     "https": "^1.0.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mocha": "^5.2.0",
     "moment": "^2.24.0",
     "morgan": "^1.9.1",
